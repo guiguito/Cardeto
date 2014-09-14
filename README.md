@@ -1,8 +1,10 @@
 Cardeto
 ============
-___Convenient Android Remote DEbugging TOol
+## Convenient Android Remote DEbugging TOol
 
-Cardeto is a simple android library which help you debug your app in an original way.
+![Logo](logo/logo.png)
+
+*Cardeto* is a simple android library which help you debug your app in an original way.
 
 Starting cardeto service within your app, you'll be able to get information from your app at runtime without using ADB and directly from your desktop web browser.
 Cardeto currently proposes several small modules :
@@ -12,13 +14,13 @@ Cardeto currently proposes several small modules :
 - copy/paste : get value from clipboard and put text in it.
 - app info : watch app info at runtime.
 
-___How does it work ?
+## How does it work ?
 Cardeto is very simple to use and modify. It runs an http server within your app process.
 The embedded http server is based on nanoHttpd (https://github.com/NanoHttpd/nanohttpd).
 Cardeto handle you browser request and generates an HTML output.
 The code architecture is primitive but efficient and easy to modify.
 
-___How to use Cardeto ?
+## How to use Cardeto ?
 
 Your smartphone must be on the wifi network from which you'll reach via a web browser.
 In your manifest add the following permissions and service
@@ -48,7 +50,7 @@ In your manifest add the following permissions and service
 Warning : Do not publish your app with Cardeto in it !
 It is only supposed to be used during development phase.
 
-___Support
+## Support
 This library was made to help me in the making of a professional app (big sqlite DB to debug).
 I built it more than a year ago but never took the time to release it as open source.
 I don't  plan to provide any support neither to update it. But who knows ...
