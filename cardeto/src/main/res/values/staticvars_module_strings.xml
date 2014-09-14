@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- SQLite module -->
+    <string name="staticvars_module_title">Static variables module</string>
+    <string name="staticvars_module_description">This module permits you to consult the status of static variables.</string>
+    <string name="check_this_class">Check this class</string>
+    <string name="full_classname_with_class_path">Full class name with class path</string>
+    <string name="class_not_found">This class was not found !</string>
+
+</resources>

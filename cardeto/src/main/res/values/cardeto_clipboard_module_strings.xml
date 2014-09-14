@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- SQLite module -->
+    <string name="clipboard_module_title">Clipboard module</string>
+    <string name="clipboard_module_description">This module helps you interact with the clipboard of your device.</string>
+    <string name="clipboard_value_modified">Clipboard value modified.</string>
+    <string name="current_clipboard_value">Current clipboard value is :</string>
+    <string name="send">Send</string>
+    <string name="set_new_clipboard_value">Set a new clipboard value :</string>
+    <string name="new_clipboard_value">New clipboard value</string>
+
+</resources>

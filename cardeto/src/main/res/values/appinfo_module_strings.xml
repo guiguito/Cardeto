@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- SQLite module -->
+    <string name="logcat_module_title">Logcat module</string>
+    <string name="logcat_module_description">This module displays the content of the logcat.</string>
+
+</resources>

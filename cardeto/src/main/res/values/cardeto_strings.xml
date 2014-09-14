@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cardeto</string>
+    <string name="cardeto_couldnt_start">Cardeto couldn\'t start</string>
+    <string name="cardeto_is_running">Cardeto is running</string>
+    <string name="no_module_module">No module matched the cardeto HTTP request you made</string>
+    <string name="module">Module</string>
+    <string name="description">Description</string>
+    <string name="url">Url</string>
+    <string name="back_to_modules_list">Back to modules list</string>
+
+</resources>

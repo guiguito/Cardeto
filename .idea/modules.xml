@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cardeto.iml" filepath="$PROJECT_DIR$/Cardeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardeto/cardeto.iml" filepath="$PROJECT_DIR$/cardeto/cardeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardetoSample/cardetoSample.iml" filepath="$PROJECT_DIR$/cardetoSample/cardetoSample.iml" />
+    </modules>
+  </component>
+</project>
+

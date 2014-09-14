@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="html_header"><![CDATA[<html>\n<body>\n<h1>Database debugger</h1>\n]]></string>
+    <string name="html_footer"><![CDATA[</body>\n</html>\n]]></string>
+
+</resources>

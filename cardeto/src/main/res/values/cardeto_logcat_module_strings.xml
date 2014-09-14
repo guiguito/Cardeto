@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- SQLite module -->
+    <string name="appinfo_module_title">AppInfo module</string>
+    <string name="appinfo_module_description">This module displays information about the current application.</string>
+
+</resources>

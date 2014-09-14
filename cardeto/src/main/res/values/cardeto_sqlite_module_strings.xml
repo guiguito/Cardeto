@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- SQLite module -->
+    <string name="sqlite_module_title">Sqlite display module</string>
+    <string name="sqlite_module_description">This module helps you debug your sqlite databases within your projet.</string>
+    <string name="db_not_found">Database not found</string>
+    <string name="table_not_found_in">Table not found %s database</string>
+    <string name="all_database_tables">All database tables</string>
+    <string name="type_your_sqlite_request">Type your sqlite request</string>
+    <string name="select_star">Select * from</string>
+    <string name="query_database">Query this database</string>
+    <string name="request_successfull">Request successfull</string>
+    <string name="request_error">This request provoked an error</string>
+
+</resources>
