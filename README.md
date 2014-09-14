@@ -36,6 +36,7 @@ In your manifest add the following permissions and service
     </application>
 ```
 
+On the java side you can start and stop the service this way.
 
 ```java
     //start cardeto service
